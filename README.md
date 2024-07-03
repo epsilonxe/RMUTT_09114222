@@ -10,11 +10,11 @@ Lecturers:
 
 ## Schedules
 
-SEMESTER 1/2566
+SEMESTER 1/2567
 
 | Section | Date    | Lecture  | Workshop | MS-Team Code | [D-Learn](https://dlearn.rmutt.ac.th/course/view.php?id=2317) Key |
 |---------|---------|----------|----------|--------|---------|
-|  SEC01  | WED     |ST1905 เวลา 13.00 - 15.00 | ST1905 เวลา 15.00 - 17.00 | `1n9j191` |   |
+|  SEC01  | WED     |ST1905 เวลา 08.00 - 10.00 | ST1905 เวลา 10.00 - 12.00 | `c8jkodp` |   |
 
 
 
@@ -22,7 +22,7 @@ SEMESTER 1/2566
 
 | Section | MIDTERM | FINAL  | Location|
 |---------|---------|-------|---------|
-| SEC 01 | 28 สิงหาคม 2566 เวลา 13.00 - 16.00 | 30 ตุลาคม 2566 เวลา 09.00 - 12.00 | TBA |
+| SEC 01 | 29 สิงหาคม 2566 เวลา 13.00 - 16.00 | 24 ตุลาคม 2566 เวลา 13.00 - 16.00 | TBA |
 
 
 ## Course Description
