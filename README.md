@@ -2,8 +2,8 @@
 Offical Repository of RMUTT 09114222 Introduction to Numerical Methods
 
 Lecturers:
- - Wongwisarut Kuangsatung, Asst.Prof.Dr.
- - Ratthaprom Promkam, Dr.rer.nat
+ - Wongwisarut Kuangsatung, Asst. Prof. Dr.
+ - Ratthaprom Promkam, Dr. rer. nat.
 
 ![Banner](./materials/banner.jpg)
 
