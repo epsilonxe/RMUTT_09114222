@@ -12,9 +12,9 @@ Lecturers:
 
 SEMESTER 1/2567
 
-| Section | Date    | Lecture  | Workshop | MS-Team Code | [D-Learn](https://dlearn.rmutt.ac.th/course/view.php?id=2317) Key |
+| Section | Date    | Lecture  | Workshop | MS-Team Code | [D-Learn](https://dlearn.rmutt.ac.th/course/view.php?id=2318) Key |
 |---------|---------|----------|----------|--------|---------|
-|  SEC01  | WED     |ST1905 เวลา 08.00 - 10.00 | ST1905 เวลา 10.00 - 12.00 | `c8jkodp` |   |
+|  SEC01  | WED     |ST1905 เวลา 08.00 - 10.00 | ST1905 เวลา 10.00 - 12.00 | `c8jkodp` |  `MKDS-VpET-AMS1`  |
 
 
 
